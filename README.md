@@ -37,7 +37,6 @@ It turns saved recipes into a guided cooking timeline with automated timers and 
 - Wipe animation for timer setup
 - Animated clock icon while timers are active
 - Dynamic Island-style floating timer UI
-- Modern progress animation inspired by Nothing OS
 
 ---
 
