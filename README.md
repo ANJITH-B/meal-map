@@ -1,6 +1,7 @@
 # 🥘 Meal-Map
 
-**Meal-Map** is a smart recipe companion app that helps you save your favorite recipes and run step-based cooking timers automatically — so you can focus on cooking, not managing steps and clocks.
+Meal-Map was created to remove the hassle of reading recipe instructions while cooking and manually setting timers.  
+It turns saved recipes into a guided cooking timeline with automated timers and rich UI interactions.
 
 ## 🔥 Preview
 <p align="center">
@@ -13,15 +14,6 @@
     <img src="https://www.anjith.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmealMap.c68d0f0f.png&w=1920&q=75" alt="Meal-Map Preview" width="900"/>
   </a>
 </p>
-
-
-
----
-
-## 🚀 Vision
-
-Meal-Map was created to remove the hassle of reading recipe instructions while cooking and manually setting timers.  
-It turns saved recipes into a guided cooking timeline with automated timers and rich UI interactions.
 
 ---
 
